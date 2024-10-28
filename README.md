@@ -37,5 +37,7 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
 </p>
 
-📫 How to reach me: 
+📫 Feel free to reach out:
+70joshualee@gmail.com
+
 
