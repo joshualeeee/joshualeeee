@@ -11,22 +11,12 @@
 -->
 
 <h1 align="center">🌟 Hi there, I'm Joshua Lee 🌟</h1>
-<h2 align="center" >👩‍💻 SWE Intern @ Keysight Technologies, Computer Science Student @ Cal Poly San Luis Obispo 👩‍💻</h2>
+<h2 align="center" >👩‍💻 SWE Intern @ Keysight Technologies, Computer Science Student @ Cal Poly SLO 👩‍💻</h2>
 
 <!-- About Me Section -->   
 <p>
-  I'm passionate about full-stack development and AI technologies. I love building innovative applications and exploring new technologies to solve real-world problems. I focus on creating dynamic front-end experiences and robust back-end systems that bring ideas to life.  
+  I'm a passionate software engineer interesetd in pursuing work in backend development or AI technologies. In my current and past roles, I’ve gained hands-on experience in the complete software development lifecycle, creating innovative and user-focused solutions. Currently, I am developing a Ray Trace plug-in for Siemens NX CAD during my Software Engineering Co-Op at Keysight Technologies. I am open to and seeking full-time roles beginning Summer 2025!
 </p>
-
-
-<!-- Hobbies & Interests Section -->
-<h3> 🌱 I’m currently learning ...
-<ul>
-  <li>Exploring new places and nature 🌿</li>
-  <li>Finding cozy coffee spots ☕</li>
-  <li>Creative side projects where tech meets art 🎨</li>
-  <li>Always eager to learn and collaborate 🤝</li>
-</ul>
 
 <h2 align="center">🛠 Skills & Tech Stack</h2>
 <p >
