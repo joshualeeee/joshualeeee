@@ -27,16 +27,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Mongoose-800000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
 
-  <!-- Icons for AI/ML -->
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
-
-  <!-- Icons for Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe API" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Prisma-1B222D?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white" alt="Passport.js" />
-  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextAuth" />
-
   <!-- Icons for DevOps & Tools -->
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
